@@ -23,7 +23,7 @@ This project is a web app that predicts the likelihood of lung cancer based on v
 3. Click on the "Predict" button to get the lung cancer prediction.
 
 ## Screenshots
-![Screenshot 1](screenshots/sreamlit.png)
+![Screenshot 1](screenshots/sreamlitss.png)
 
 ## Technologies Used
 - Python
