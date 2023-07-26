@@ -1,6 +1,6 @@
 Lung Cancer Prediction Web App
 
-![Lung Cancer Prediction](/Users/pratyushkumargulzari/Downloads.Untitled.png)
+![Lung Cancer Prediction](screenshots/Untitled.png)
 Description
 This project is a web app that predicts the likelihood of lung cancer based on various risk factors.
 
@@ -23,8 +23,7 @@ This project is a web app that predicts the likelihood of lung cancer based on v
 3. Click on the "Predict" button to get the lung cancer prediction.
 
 ## Screenshots
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 1](screenshots/sreamlit.png)
 
 ## Technologies Used
 - Python
